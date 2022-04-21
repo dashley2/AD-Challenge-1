@@ -78,6 +78,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    position: relative;
 }
 
 .benefits {
