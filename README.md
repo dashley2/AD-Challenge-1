@@ -1,6 +1,4 @@
 # Horiseon
-![Screenshot](Horiseon.png)
-
 ## Purpose
 A website that offers marketing services
 
@@ -14,4 +12,4 @@ A website that offers marketing services
 ## Repository
 * https://github.com/dashley2/AD-Challenge-1.git 
 ## Contribution
-Made with by Ashley Darr
+Refactored by Ashley Darr
