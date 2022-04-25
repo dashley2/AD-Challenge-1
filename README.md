@@ -1,5 +1,6 @@
 # Horiseon
-![Screenshot](_C__Users_dmari_repos_AD-Challenge-1_index.html.png)
+![Screenshot](Horiseon.png)
+
 ## Purpose
 A website that offers marketing services
 
